@@ -1,7 +1,6 @@
-# veraball.github.io
+# toasshub.github.io
 
-The official site of [Veraball](https://github.com/Veraball/veraball), a
-free/libre "roll the ball" game.
+The W.I.P 
 
 # License
 
